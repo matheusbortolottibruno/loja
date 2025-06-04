@@ -13,21 +13,21 @@
                 <h3 class="titulo-produto">Camiseta Conforto</h3>
                 <p class="descricao-produto">Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.</p>
                 <h3 class="preco-produto">R$ 70,00</h3>
-                <a href="#" class="botao-produto">Ver mais</a>
+                <a href="produto.php" class="botao-produto">Ver mais</a>
             </div>
             <div class="item-produto">
                 <img src="images/calca.png" class="foto-produto">
                 <h3 class="titulo-produto">Calça Alfaiataria</h3>
                 <p class="descricao-produto">Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!</p>
                 <h3 class="preco-produto">R$ 180,00</h3>
-                <a href="#" class="botao-produto">Ver mais</a>
+                <a href="produto.php" class="botao-produto">Ver mais</a>
             </div>
             <div class="item-produto">
                 <img src="images/tenis.png" class="foto-produto">
                 <h3 class="titulo-produto">Tênis Chunky</h3>
                 <p class="descricao-produto">Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.</p>
                 <h3 class="preco-produto">R$ 250,00</h3>
-                <a href="#" class="botao-produto">Ver mais</a>
+                <a href="produto.php" class="botao-produto">Ver mais</a>
             </div>
             <div class="item-produto">
                 <img src="images/jaqueta.png" class="foto-produto">
@@ -53,14 +53,12 @@
         </div>
     </div>
 
-   
-
-   
-    
 
     <script src="app.js"></script>
 </body>
 </html>
+
+
  <?php include "includes/facilidades.php";?>
 <?php include "includes/newsletter.php";?>
 <?php include "includes/rodape.php";?>

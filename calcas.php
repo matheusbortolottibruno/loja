@@ -1,4 +1,9 @@
-
+<?php include "includes/cabecalho.php";?>   
+<?php include "includes/banner.php";?>  
+    
+    
+    
+    
     <div class="categorias">
         <h2 class="titulo">CALÇAS</h2>
     </div>
@@ -51,3 +56,8 @@
            
         </div>
     </div>
+
+
+    <?php include "includes/facilidades.php";?>
+<?php include "includes/newsletter.php";?>
+<?php include "includes/rodape.php";?>
